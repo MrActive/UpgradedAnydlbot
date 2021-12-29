@@ -4,6 +4,7 @@ git+git://github.com/google/chatbase-python.git
 tgcrypto
 Pillow
 hachoir
+pysocks
 PyDrive
 pyrogram==0.12.0
 ffmpeg-python
